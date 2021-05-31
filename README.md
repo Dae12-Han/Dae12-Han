@@ -1,13 +1,11 @@
 ## Hi there 👋
 ### I'm Dae12-Han!
 
+If you have any question please feel free to contact me!
+✉️ drakaina10@gmail.com
 
 ### Computer Vision
-I'm studying about Computer Vision at PKNU IVC LAB!
-
-If you have any question please feel free to contact me!
-drakaina10@gmail.com 
-   
+📝 I’m currently learning about Super-Resolution!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_pytorch)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_tensorflow)](https://github.com/anuraghazra/github-readme-stats)
 
