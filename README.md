@@ -1,4 +1,12 @@
 ### Hi there 👋
+### I'm Dae12-Han!
+
+
+### Computer Vision
+I'm studying about Computer Vision at PKNU IVC LAB!
+
+If you have any question please feel free to contact me!
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)](https://github.com/Dae12-Han/github-readme-stats)
   
