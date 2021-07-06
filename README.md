@@ -7,7 +7,9 @@ If you have any question please feel free to contact me!
 ### Computer Vision   
 📝 I’m currently learning about Super-Resolution!   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_pytorch)](https://github.com/Dae12-Han/ESPCN_pytorch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_tensorflow)](https://github.com/Dae12-Han/ESPCN_tensorflow)     
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_tensorflow)](https://github.com/Dae12-Han/ESPCN_tensorflow)       
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=Background-Replacement)](https://github.com/Dae12-Han/Background-Replacement)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=Face-recognition)](https://github.com/Dae12-Han/Face-recognition)     
    
 ![Dae12-Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)      
   
