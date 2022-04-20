@@ -15,7 +15,7 @@ If you have any question please feel free to contact me!
 + **_비지역 희소 어텐션 메커니즘을 활용한 초해상화: Super-Resolution Using NLSA Mechanism_** ```융합신호처리학회 논문지```
 
 
-These are projects that I did!  
+🌱These are projects that I did!  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=Background-Replacement)](https://github.com/Dae12-Han/Background-Replacement)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=Face-recognition)](https://github.com/Dae12-Han/Face-recognition)   
 ![Dae12-Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)      
