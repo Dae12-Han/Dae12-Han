@@ -8,8 +8,6 @@ If you have any question please feel free to contact me!
 📝 I’m currently learning about Super-Resolution!   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=MSNLN)](https://github.com/Dae12-Han/MSNLN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=MSNLN_demo)](https://github.com/Dae12-Han/MSNLN_demo)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_pytorch)](https://github.com/Dae12-Han/ESPCN_pytorch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_tensorflow)](https://github.com/Dae12-Han/ESPCN_tensorflow)   
 
 ⚡Papers
 + **_CG 영상 초해상화에서의 학습 데이터 의존성_** ```한국융합신호처리학회 하계학술대회 논문집```
@@ -22,6 +20,8 @@ If you have any question please feel free to contact me!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=Background-Replacement)](https://github.com/Dae12-Han/Background-Replacement)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=Face-recognition)](https://github.com/Dae12-Han/Face-recognition)   
 ![Dae12-Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)      
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_pytorch)](https://github.com/Dae12-Han/ESPCN_pytorch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_tensorflow)](https://github.com/Dae12-Han/ESPCN_tensorflow)   
     
 <!--
 **Dae12-Han/Dae12-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
