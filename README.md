@@ -1,5 +1,4 @@
 ## Hi there 👋
-### I'm Dae12-Han!
 
 If you have any question please feel free to contact me!   
 ✉️ drakaina10@gmail.com   
