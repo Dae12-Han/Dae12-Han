@@ -6,6 +6,8 @@ If you have any question please feel free to contact me!
 
 ### Computer Vision   
 📝 I’m currently learning about Super-Resolution!   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_pytorch)](https://github.com/Dae12-Han/MSNLN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_tensorflow)](https://github.com/Dae12-Han/MSNLN_demo)   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_pytorch)](https://github.com/Dae12-Han/ESPCN_pytorch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_tensorflow)](https://github.com/Dae12-Han/ESPCN_tensorflow)   
 
@@ -13,6 +15,7 @@ If you have any question please feel free to contact me!
 + **_CG 영상 초해상화에서의 학습 데이터 의존성_** ```한국융합신호처리학회 하계학술대회 논문집```
 + **_Blanced Attention Mechanism을 활용한 CG/VR 영상의 초해상화_** ```한국융합신호처리학회논문지```
 + **_비지역 희소 어텐션 메커니즘을 활용한 초해상화: Super-Resolution Using NLSA Mechanism_** ```융합신호처리학회 논문지```
++ **_Image super-resolution using multi-scale non-local attention_** ```Journal of Electronic Imaging```
 
 
 🌱These are projects that I did!  
