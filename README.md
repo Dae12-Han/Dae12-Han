@@ -19,9 +19,10 @@ If you have any question please feel free to contact me!
 🌱These are projects that I did!  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=Background-Replacement)](https://github.com/Dae12-Han/Background-Replacement)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=Face-recognition)](https://github.com/Dae12-Han/Face-recognition)   
-![Dae12-Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)      
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_pytorch)](https://github.com/Dae12-Han/ESPCN_pytorch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_tensorflow)](https://github.com/Dae12-Han/ESPCN_tensorflow)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_tensorflow)](https://github.com/Dae12-Han/ESPCN_tensorflow)     
+
+![Dae12-Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)      
     
 <!--
 **Dae12-Han/Dae12-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
