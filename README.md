@@ -14,13 +14,6 @@ If you have any question please feel free to contact me!
 + **_비지역 희소 어텐션 메커니즘을 활용한 초해상화: Super-Resolution Using NLSA Mechanism_** ```융합신호처리학회 논문지```
 + **_Image super-resolution using multi-scale non-local attention_** ```Journal of Electronic Imaging```
 
-
-🌱These are projects that I did!  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=Background-Replacement)](https://github.com/Dae12-Han/Background-Replacement)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=Face-recognition)](https://github.com/Dae12-Han/Face-recognition)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_pytorch)](https://github.com/Dae12-Han/ESPCN_pytorch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dae12-Han&repo=ESPCN_tensorflow)](https://github.com/Dae12-Han/ESPCN_tensorflow)     
-
 ![Dae12-Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)      
     
 <!--
@@ -36,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 These are projects that I did!  
 -->
