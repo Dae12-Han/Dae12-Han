@@ -15,7 +15,7 @@ If you have any question please feel free to contact me!
 + **_Image super-resolution using multi-scale non-local attention_** ```Journal of Electronic Imaging```
 
 ![Dae12-Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)      
-[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727)](https://git.io/awesome-stats-card)
+[![Dae12-Han's github stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)](https://github.com/Dae12-Han/github-readme-stats)
     
 <!--
 **Dae12-Han/Dae12-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
