@@ -11,6 +11,8 @@ If you have any question please feel free to contact me!
 + **_비지역 희소 어텐션 메커니즘을 활용한 초해상화: Super-Resolution Using NLSA Mechanism_** ```융합신호처리학회 논문지```
 + **_Image super-resolution using multi-scale non-local attention_** ```Journal of Electronic Imaging```
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dae12-Han&layout=compact&theme=tokyonight)
+
 <!--
 **Dae12-Han/Dae12-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
