@@ -3,8 +3,7 @@
 If you have any question please feel free to contact me!   
 ✉️ drakaina10@gmail.com   
 
-### Computer Vision   
-📝 I’m currently learning about Super-Resolution!   
+📝 I’m currently learning about Machine Learning/Deep Learning!
 
 ⚡Papers
 + **_CG 영상 초해상화에서의 학습 데이터 의존성_** ```한국융합신호처리학회 하계학술대회 논문집```
