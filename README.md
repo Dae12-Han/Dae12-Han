@@ -16,6 +16,7 @@ If you have any question please feel free to contact me!
 
 ![Dae12-Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)      
 [![Dae12-Han's github stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)](https://github.com/Dae12-Han/github-readme-stats)
+[![Dae12-Han's github stats](https://github-readme-stats.vercel.app/api?username=Dae12-Han)]
     
 <!--
 **Dae12-Han/Dae12-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
